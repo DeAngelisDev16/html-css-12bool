@@ -15,76 +15,74 @@
 .col-1{
     flex-basis: calc(100% / 12 * 1);
     max-width: calc(100% / 12 * 1);
-    background-color: blue;
-    height: 5vh;
-    border: 1px solid white;
-    color: white;
+    
 }
 
 .col-2{
     flex-basis: calc(100% / 12 * 2);
     max-width: calc(100% / 12 * 2);
-    background-color: blue;
+   
 }
 
 .col-3{
     flex-basis: calc(100% / 12 * 3);
     max-width: calc(100% / 12 * 3);
-    background-color: blue;
+   
 }
 
 .col-4{
     flex-basis: calc(100% / 12 * 4);
     max-width: calc(100% / 12 * 4);
-    background-color: blue;
+   
 }
 
 .col-5{
     flex-basis: calc(100% / 12 * 5);
     max-width: calc(100% / 12 * 5);
-    background-color: blue;
+    
 }
 
 .col-6{
     flex-basis: calc(100% / 12 * 6);
     max-width: calc(100% / 12 * 6);
-    background-color: blue;
+   
 }
 
 .col-7{
     flex-basis: calc(100% / 12 * 7);
     max-width: calc(100% / 12 * 7);
-    background-color: blue
+   
+    
 }
 
 .col-8{
     flex-basis: calc(100% / 12 * 8);
     max-width: calc(100% / 12 * 8);
-    background-color: blue;
+   
 }
 
 .col-9{
     flex-basis: calc(100% / 12 * 9);
     max-width: calc(100% / 12 * 9);
-    background-color: blue;
+    
 }
 
 .col-10{
     flex-basis: calc(100% / 12 * 10);
     max-width: calc(100% / 12 * 10);
-    background-color: blue;
+   
 }
 
 .col-11{
     flex-basis: calc(100% / 12 * 11);
     max-width: calc(100% / 12 * 11);
-    background-color: blue;
+   
 }
 
 .col-12{
     flex-basis: calc(100% / 12 * 12);
     max-width: calc(100% / 12 * 12);
-    background-color: blue;
+   
 }
 
 .d-flex{
@@ -94,6 +92,10 @@
 .justify-center{
     justify-content: center;
     align-items: center;
+}
+
+.text-align{
+    text-align: center;
 }
    
 

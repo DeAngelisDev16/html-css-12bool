@@ -3,3 +3,43 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+h2{
+    margin-bottom: 0.5rem;
+}
+
+.c-h{
+    background-color: blue;
+    height: 5vh;
+    border: 1px solid white;
+    color: white;
+}
+
+.row-nested{
+    max-width: 80%;
+}
+
+.nested-col-2{
+    background-color: lime;
+    width: calc(100% / 12 * 2);
+    height: 3vh;
+    border: 1px solid white;
+}
+
+.nested-col-6{
+    background-color: lime;
+    width: calc(100% / 12 * 6);
+    height: 3vh;
+    border: 1px solid white;
+}
+
+.nested-col-8{
+    background-color: lime;
+    width: calc(100% / 12 * 8);
+    height: 3vh;
+    border: 1px solid white;
+}
+
+
+    
+    
