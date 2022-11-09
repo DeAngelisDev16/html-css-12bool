@@ -181,6 +181,31 @@
 
 }
 
+.ml-5{
+    margin-left: calc(100% / 12 * 5);
+
+}
+
+.ml-4{
+    margin-left: calc(100% / 12 * 4);
+
+}
+
+.ml-3{
+    margin-left: calc(100% / 12 * 3);
+
+}
+
+.ml-2{
+    margin-left: calc(100% / 12 * 2);
+
+}
+
+.ml-1{
+    margin-left: calc(100% / 12 * 1);
+
+}
+
 
 
 
