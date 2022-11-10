@@ -20,26 +20,14 @@ h2{
    
 }
 
-.nested-col-2{
+.nested{
     background-color: lime;
-    width: calc(100% / 12 * 2);
-    height: 3vh;
     border: 1px solid white;
 }
+   
+   
 
-.nested-col-6{
-    background-color: lime;
-    width: calc(100% / 12 * 6);
-    height: 3vh;
-    border: 1px solid white;
-}
 
-.nested-col-8{
-    background-color: lime;
-    width: calc(100% / 12 * 8);
-    height: 3vh;
-    border: 1px solid white;
-}
 
 .mt{
     margin-top: 1rem;
